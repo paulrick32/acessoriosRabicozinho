@@ -1,4 +1,4 @@
-# telma2
+# AcessoriosRabicozinho
 
 ## Project setup
 ```
